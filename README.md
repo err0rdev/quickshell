@@ -1,2 +1,2 @@
-# quickshell
-This is a quick python script.
+# Quickshell
+This is a quick python script. 
