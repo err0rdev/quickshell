@@ -4,8 +4,8 @@
 #  quick-shell.py
 #  
 #  Copyright 2017 zottel <z0ttelz@err0r-dev>
-#  This is a Open source Programm! You can modify it as you like!
-#  But its not made to harm any one! 
+#  This is an open source program! You can modify it as you like!
+#  But it's not made to harm any one! 
 #  
 #  
 #  
@@ -41,7 +41,7 @@ def menu():
 clear()
 print("\033[1;3mYou may have to start this script as root. Or just type 'root'.\033[1;m\033[1;m\n")
 print("\033[1;31mSelect:\033[1;m\n")
-print("\033[1;32m1. Put Wlancard in Monitormode\033[1;m")
+print("\033[1;32m1. Put Wificard in Monitormode\033[1;m")
 print("\033[1;33m2. Stop Monitormode\033[1;m")
 
 
